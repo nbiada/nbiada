@@ -7,7 +7,11 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nicolabiada/)
 - ✨ Campaign: **do not abandon pets**
 
+<!--
 ![Nicola's github stats](https://github-readme-stats.vercel.app/api?username=nbiada&show_icons=true&hide_border=true&count_private=true)
+-->
+## Github stats
+![Nicola's github stats](https://github.com/nbiada/nbiada/blob/master/github-metrics.svg)
 
 ⚡ platforms for my daily work  
 
