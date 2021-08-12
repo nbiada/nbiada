@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on **Blazor** projects
+- 🌱 I’m currently learning **Azure AD** & **Azure AD B2C**
+- 🤔 I’m looking for help with **a big project**
+- 💬 Ask me about **Blazor, asp.net, SQL Server, ITIL, ITSM and Project Management**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nicolabiada/)
+- ✨ Campaign: **do not abandon pets**
+
+![Nicola's github stats](https://github-readme-stats.vercel.app/api?username=nbiada&show_icons=true&hide_border=true&count_private=true)
 <!--
 **nbiada/nbiada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
