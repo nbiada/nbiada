@@ -10,6 +10,9 @@
 <!--
 ![Nicola's github stats](https://github-readme-stats.vercel.app/api?username=nbiada&show_icons=true&hide_border=true&count_private=true)
 -->
+## Stackoverflow stats
+[![Nicola's Stackoverflow stats](https://stackoverflow.com/users/flair/11109967.png?theme=clean)](https://stackoverflow.com/users/11109967/nicola-biada)
+
 ## Github stats
 ![Nicola's github stats](https://github.com/nbiada/nbiada/blob/master/github-metrics.svg)
 
